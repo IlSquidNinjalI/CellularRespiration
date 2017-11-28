@@ -1,13 +1,13 @@
 public class CellularRespiration {
   
   private int glucose;
-  private int ATP; 
-  private int ADP; 
+  private int ATP;
+  private int ADP;
   private int NAD;
   private int NADH;
   private int H2O;
-  private int C02;
-  private int CoenzymeA;
+  private int CO2;
+  private int coenzymeA;
   private int FADH2;
   private int FAD; 
   private int O2;
@@ -15,5 +15,4 @@ public class CellularRespiration {
   public static int glycolysis () {
     
   }
-  
 }
